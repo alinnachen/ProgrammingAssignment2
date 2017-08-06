@@ -1,8 +1,14 @@
-## this R script contains two functions.
+## Coursera R Programming Course- Assignment 2
+## Author: Hai Wen CHEN
+## 06/08/2017
+
+## This R script contains two functions.
 ## 1. makeCachematrix: This function creates a special "matrix" object 
-##    that can cache its inverse. 
+##    that can cache (store) its inverse. 
 ## 2. cacheSolve : This function computes the inverse of the special "matrix" 
-##    returned by makeCacheMatrix above. If the inverse has already been calculated (and the matrix has not changed), then the cachesolve should retrieve the inverse from the cache.
+##    returned by makeCacheMatrix above. If the inverse has already been calculated 
+##    (and the matrix has not changed), then the cachesolve should retrieve the inverse 
+##    from the cache.
 
 ## this function, makeCacheMatrix, creates a matrix object, x, and a 'list' of functions 
 ## that can respectively
