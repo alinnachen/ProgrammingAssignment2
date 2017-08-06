@@ -1,6 +1,9 @@
 ## Coursera R Programming Course- Assignment 2
 ## Author: Hai Wen CHEN
+## Acknowledgments:Part of the comments and the code originated from the course material of the "Coursera 
+## John Hopkins University- R Programming" course taught by  Roger D. Peng, PhD,  Jeff Leek, PhD,Brian Caffo, PhD.
 ## 06/08/2017
+
 
 ## This R script contains two functions.
 ## 1. makeCachematrix: This function creates a special "matrix" object 
